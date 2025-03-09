@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54f79b77-a1c4-4b6c-9a59-7067058c3b7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/estate_visitors_gatepass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/authentication/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/authentication/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/estates/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/estates/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estate_visitors_gatepass/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estate_visitors_gatepass/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estate_visitors_gatepass/custom_permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estate_visitors_gatepass/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estate_visitors_gatepass/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estate_visitors_gatepass/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estate_visitors_gatepass/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/estate_visitors_gatepass/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estate_visitors_gatepass/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/estate_visitors_gatepass/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741310212334</updated>
-      <workItem from="1741310238275" duration="15785000" />
+      <workItem from="1741310238275" duration="16876000" />
     </task>
     <servers />
   </component>
